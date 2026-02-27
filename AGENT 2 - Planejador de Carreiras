@@ -179,3 +179,110 @@ OBJETIVO:
 - Transição: destacar transferência de skills
 - Crescimento: focar em skills avançadas
 \
+
+________________________________________________________________________________________________________________________________________________________________
+
+## PERGUNTAS
+
+•   CARREIRA ESCOLHIDA: Desenvolvedora de Inteligência Artificial Aplicada 
+•   HORAS SEMANAIS: 42h
+•   EXPERIENCIA: Zero
+•   OBJETIVO: Primeiro emprego
+•   PREFERENCIA: Código
+•   INTERESSES: Tudo sobre IA
+
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de uma Desenvolvedora de IA Aplicada:
+•   Coletar e preparar dados para treinar modelos
+•   Implementar algoritmos de machine learning e deep learning
+• 	Testar e ajustar hiperparâmetros para melhorar desempenho
+• 	Integrar modelos em aplicações reais (web, mobile, sistemas internos)
+• 	Documentar processos e comunicar resultados para equipes
+•   Versionar código e colaborar em equipe com Git e GitHub 
+
+
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+• 	Programação em Python
+• 	Fundamentos de Machine Learning
+• 	Redes Neurais e Deep Learning
+•   Git e GitHub
+NICE-TO-HAVE (complementares):
+• 	Estatística aplicada
+• 	Engenharia de dados
+FERRAMENTAS E TECNOLOGIAS:
+• 	TensorFlow / PyTorch
+• 	Scikit-learn
+• 	Jupyter Notebook
+•   Git e GitHub
+
+📅 ROADMAP DE 90 DIAS
+ADAPTADO PARA: 42h/semana (intensivo, com conteúdo extra)
+MÊS 1 - FUNDAMENTOS
+SEMANA 1-2:
+• 	Revisar lógica de programação e Python aplicado a dados
+• 	Introdução a IA e Machine Learning
+•   Instalar Git e criar conta no GitHub
+•   Aprender comandos rápidos
+•   Criar reposittório pessoal no GitHub e subir primeiros arquivos (README, anotações)
+
+SEMANA 3-4:
+• 	Estatística básica e probabilidade
+• 	Manipulação de dados com Pandas e NumPy
+MÊS 2 - PRÁTICA
+SEMANA 5-6:
+• 	Treinar modelos clássicos (regressão, classificação)
+• 	Avaliar métricas de desempenho (accuracy, precision, recall)
+•   Introdução ao Git (commit, branch e merge)
+SEMANA 7-8:
+• 	Redes neurais artificiais com TensorFlow/PyTorch
+• 	Projetos práticos pequenos (classificação de imagens, análise de texto)
+•   Publicar repositórios no GitHub (README, issues, pull requests)
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+• 	Projeto de portfólio completo (IA aplicada a problema real)
+• 	Documentação técnica e README profissional
+•   Versionamento continuo no GitHub (commits diários, boas práticas de branch)
+SEMANA 11-12:
+• 	Preparação para entrevistas técnicas
+• 	Simulação de entrevistas e revisão de conceitos
+•   Criar README profissional e organizar portfólio no GitHub
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Classificador Inteligente de Notícias (Fake News Detector)
+O QUE FAZER:
+Criar um modelo de IA que analisa textos de notícias e classifica se são confiáveis ou potencialmente falsas.
+ENTREGÁVEIS:
+• 	Dataset tratado e limpo
+• 	Modelo treinado e validado
+• 	Aplicação simples (web ou notebook interativo)
+CRITÉRIOS DE ACEITAÇÃO:
+• 	Accuracy acima de 80%
+• 	Código bem estruturado e comentado
+• 	README explicando uso e resultados
+DICA: Use datasets públicos como o "Fake News Dataset" disponível no Kaggle.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: O que é Machine Learning?
+COMO RESPONDER: Explique que é uma área da IA que permite que sistemas aprendam padrões a partir de dados sem serem explicitamente programados.
+PERGUNTA 2: Qual a diferença entre supervised e unsupervised learning?
+COMO RESPONDER: Supervised usa dados rotulados, unsupervised busca padrões em dados não rotulados.
+PERGUNTA 3: O que é overfitting?
+COMO RESPONDER: Quando o modelo aprende demais os dados de treino e perde capacidade de generalizar.
+PERGUNTA 4: Cite uma métrica de avaliação de modelos de classificação.
+COMO RESPONDER: Accuracy, precision, recall ou F1-score, explicando brevemente cada uma.
+PERGUNTA 5: Qual linguagem você usaria para IA e por quê?
+COMO RESPONDER: Python, pela vasta comunidade, bibliotecas e facilidade de prototipagem.
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Bootcamp Santander Bootcamp 2025 - Ciência de Dados com Python (ou equivalente em IA na DIO)
+POR QUE ESSA TRILHA:
+Conecta diretamente com fundamentos de dados, Python e IA, preparando para aplicar modelos em projetos reais.
+PRÓXIMOS PASSOS:
+1. 	Acesse dio.me
+2. 	Busque por "Santander Bootcamp Ciência de Dados com Python"
+3. 	Inscreva-se gratuitamente
+4. 	Siga o cronograma junto com este roadmap
+
+✨ Seu plano está pronto!
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
